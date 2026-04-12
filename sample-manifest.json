@@ -1,0 +1,12 @@
+{
+  "export_job_id": "8ecaf5f4-8ae7-4048-96c1-2f7e1c2fef6d",
+  "id_short": 239181,
+  "published_at": "2026-04-12T07:05:49Z",
+  "repo_name": "the-hhi-monopoly-index-for-south-dakota-us-sample-239181",
+  "sample_asset_name": "beamstation_239181_restaurants-us-sd_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/239181/beamstation_239181_restaurants-us-sd_SAMPLE_DIST.csv",
+  "sample_records": 11,
+  "sample_sha256": "54bdb0389080d8ca67a355e8c43fde844c0bcf42aef0d93ca326ee02e5c10162",
+  "sample_size_bytes": 58331,
+  "total_records": 119
+}
